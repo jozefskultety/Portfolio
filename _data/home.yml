@@ -5,15 +5,15 @@ navbar_entries:
   - title: blog
     url: blog
 
-  - title: website
+  - title: Portfolio
     url: https://www.abhinav.co
 
 project_entries:
-  - title: Project 1
+  - title: Citizen Conflict
     url: overview-post
     desc: This is an example project, configured in _data/home.yml
 
-  - title: Project 2
+  - title: Aneemate
     url: overview-post
     desc: Projects are shown in card layout
 
